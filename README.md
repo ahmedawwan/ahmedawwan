@@ -1,5 +1,5 @@
 # Hi, I'm Ahmed 👋
-
+<br>
 <a href="https://twitter.com/ahmedawwan" target = "_blank">
   <img align="left" alt="Ahmed's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
@@ -16,7 +16,7 @@
   <img align="left" alt="Ahmed's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 
-
+<br><br>
 - 🔭 I’m currently working on Flutter
 - 🌱 I’m currently learning Node.js
 - 👯 I’m looking to collaborate on [GitHub](https://github.com/ahmedawwan).
@@ -25,7 +25,7 @@
 - 📫 How to reach me: [Instagram - @ahmedawwan](https://instagram.com/ahmedawwan/).
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I am always learning something new
-
+<br>
 **Languages and Tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
