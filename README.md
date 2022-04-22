@@ -1,4 +1,4 @@
-### Hi, I'm Ahmed 👋:star:
+### Hi, I'm Ahmed :star:
 
 <!--
 **ahmedawwan/ahmedawwan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
