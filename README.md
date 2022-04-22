@@ -1,6 +1,6 @@
 # Hi, I'm Ahmed 👋
 
-<a href="https://twitter.com/ahmedawwan">
+<a href="https://twitter.com/ahmedawwan" target = "_blank">
   <img align="left" alt="Ahmed's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://linkedin.com/in/ahmedawwan">
