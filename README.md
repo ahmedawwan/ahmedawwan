@@ -5,11 +5,11 @@
 <h2><img src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = "50px" height ="50px">About Me :</h2> -->
   
 
-🔭 I’m currently working on Flutter <br>
+🔭 I’m currently working on Flutter and JavaScript <br>
 🌱 I’m currently learning Python <br>
 👯 I’m looking to collaborate on GitHub. <br>
 🤔 I’m looking for help with Python <br>
-💬 Ask me about Flutter or Python <br>
+💬 Ask me about Flutter and JavaScript <br>
 📫 How to reach me: Instagram - @ahmedawwan. <br>
 😄 Pronouns: He/His <br>
 ⚡ Fun fact: I am always learning something new
