@@ -2,7 +2,7 @@
 
 
 
-<h3>I'm constantly exploring new technologies and learning something new. I'm a flutter developer, learning django for backend development, and have some experience with developing AR Apps using Unity. </h3>
+<h4>I'm constantly exploring new technologies and learning something new. I'm a flutter developer, learning django for backend development, and have some experience with developing AR Apps using Unity. </h4>
 
     
 <!--
@@ -16,20 +16,20 @@
 <h2>💻Tech Stack</h2>
 
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)   -->
-
+<!--
 <h2>📊GitHub Stats :</h2>
     
     
 ![](https://github-readme-stats.vercel.app/api?username=ahmedawwan&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
-    
+-->
 
 <!--![](https://github-readme-streak-stats.herokuapp.com/?user=ahmedawwan&theme=radical&hide_border=false&include_all_commits=true&count_private=true)-->
 <!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedawwan&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)-->
 
 
-<h2>🏆GitHub Trophies</h2>
+<h2>Trophies</h2>
 
-![](https://github-profile-trophy.vercel.app/?username=ahmedawwan&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=ahmedawwan&theme=radical&no-frame=false&no-bg=false&margin-w=6&column=7)
 <!--
 <h3> ✍️Random Dev Quote</h3>
 
