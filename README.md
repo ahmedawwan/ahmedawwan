@@ -29,7 +29,7 @@
 
 <h2>Trophies</h2>
 
-![](https://github-profile-trophy.vercel.app/?username=ahmedawwan&theme=radical&no-frame=false&no-bg=false&margin-w=6&column=7)
+![](https://github-profile-trophy.vercel.app/?username=ahmedawwan&theme=radical&include_all_commits=true&count_private=true&no-frame=false&no-bg=false&margin-w=6&column=7)
 <!--
 <h3> ✍️Random Dev Quote</h3>
 
