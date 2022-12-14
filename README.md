@@ -3,16 +3,8 @@
 <!-- <img src="https://readme-typing-svg.herokuapp.com?lines=Flutter+Developer;JavaScript+Developer&center=true&width=210&height=50" width = "100%"> 
   
 <h2><img src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = "50px" height ="50px">About Me :</h2> -->
-  
 
-🔭 I’m currently working on Flutter and JavaScript <br>
-🌱 I’m currently learning Python <br>
-👯 I’m looking to collaborate on GitHub. <br>
-🤔 I’m looking for help with Python <br>
-💬 Ask me about Flutter and JavaScript <br>
-📫 How to reach me: Instagram - @ahmedawwan. <br>
-😄 Pronouns: He/His <br>
-⚡ Fun fact: I am always learning something new
+I'm constantly exploring new technologies and learning something new. I'm a flutter developer, learning django for backend development, and have some experience with developing AR Apps using Unity. 
 
     
 <!--
@@ -32,6 +24,7 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=ahmedawwan&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ahmedawwan&theme=radical&hide_border=false)<br/>
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedawwan&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
