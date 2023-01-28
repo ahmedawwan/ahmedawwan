@@ -1,8 +1,8 @@
-<h1>Hi , I'm Ahmed <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1>Hi , I'm Ahmed </h1>
 
 
 
-<h4>I'm constantly exploring new technologies and learning something new. I'm a flutter developer, learning django for backend development, and have some experience with developing AR Apps using Unity. </h4>
+<p>I am a skilled Flutter developer with a passion for creating beautiful and responsive mobile apps. With a strong background in Flutter development, I am able to create high-performing and user-friendly apps for both iOS and Android platforms. I am also currently expanding my skillset by learning Django for backend development, allowing me to provide full-stack solutions for my clients. </p>
 
     
 <!--
