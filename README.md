@@ -3,7 +3,7 @@
 
 
 
-<p>I am a skilled Flutter developer with a passion for creating beautiful and responsive mobile apps. With a strong background in Flutter development, I am able to create high-performing and user-friendly apps for both iOS and Android platforms. Currently learning Django for backend development and Rust for handling databases to enhance full-stack capabilities</p>
+<p>I am a skilled Flutter developer with a passion for creating beautiful and responsive mobile apps. With a strong background in Flutter development, I am able to create high-performing and user-friendly apps for both iOS and Android platforms. Currently learning Django for backend development to enhance full-stack capabilities</p>
 
 
 <h3 align="left">Connect with me:</h3>
