@@ -1,7 +1,7 @@
 
 # Hi , I'm Ahmed
 
-I'm a versatile mobile developer, having experience in Flutter. I started my career as a front-end developer but quickly transitioned to mobile development with Flutter. I'm currently expanding my skills to include back-end development with Django, Flask, and Python. I'm passionate about building high-quality mobile applications and constantly improving my skills.
+I'm a versatile mobile developer, having experience in Flutter. I started my career as a front-end developer but quickly transitioned to mobile development with Flutter. I'm currently expanding my skills to include back-end development with Django, Flask, and Python. I'm passionate about building high-quality mobile applications and constantly improving my skills and learning new technologies.
 
 
 ### 🌐 Socials:
